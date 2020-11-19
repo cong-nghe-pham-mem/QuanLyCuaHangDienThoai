@@ -1,0 +1,3 @@
+hiện trạng tin học:
+hiện tại cửa hàng không sử dụng phần mềm nào để quản lý việc kinh doanh. Các thông tin liên quan tới cửa hàng được lưu trữ thủ công: bằng giấy tờ, các ứng dụng cơ bản như word, exel,... 
+sử dụng mạng nội bộ, kết nối ổn định, nhân viên có một số hiểu biết cơ bản về tin học.
